@@ -5,7 +5,7 @@
 **Tools:** Excel (optional), Python (pandas), MySQL, Tableau
 
 ## Project Overview
-This project analyzes mental health indicators among university students using a survey dataset. It demonstrates data cleaning, SQL-based analysis, and dashboard-ready outputs for Tableau — ideal for showcasing data analyst skills on GitHub and in interviews.
+This project analyzes mental health indicators among university students using a survey dataset. It demonstrates data cleaning, SQL-based analysis, and dashboard-ready outputs for Tableau — ideal for showcasing data analyst skills.
 
 ## Contents
 - `data/Student_Mental_health.csv` - Original dataset (as uploaded)
