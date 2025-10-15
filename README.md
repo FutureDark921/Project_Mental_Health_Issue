@@ -1,4 +1,4 @@
-# Mental Health Trends Among University Students In PH. (Portfolio Project)
+# Mental Health Trends Among University Students In PH.
 
 **Author:** Jeric Cabalde  
 **Dataset:** `data/Student_Mental_health.csv` (uploaded)  
